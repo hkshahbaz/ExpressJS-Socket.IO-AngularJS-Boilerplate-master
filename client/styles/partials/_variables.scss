@@ -1,0 +1,20 @@
+/******************************************************************
+
+Variables
+
+******************************************************************/
+
+$black:             #231f20;
+$white:             #fff;
+$gray:              #eaedf2;
+$disabled-gray:     #cfcfcf;
+
+// links
+$text-color:        #5c6b80;
+$link-color:        $black;
+$link-hover:        darken($link-color, 9%);
+
+// alerts
+$alert-red:			red;
+$alert-green:		#645564;
+$alert-blue:		blue;
