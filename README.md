@@ -37,10 +37,8 @@ cd myProject/client && npm install && gulp
 ```
 
 ## Contact
-Copyright (C) 2017 Jozef Butko<br>
-[www.jozefbutko.com](http://www.jozefbutko.com)<br>
-[www.github.com/jbutko](http://www.github.com/jbutko)<br>
-[@jozefbutko](http://www.twitter.com/jozefbutko)<br>
+Copyright (C) 2017 Shahbaz Haroon<br>
+https://shahbazharoon.tech/
 Released under MIT license
 
 ## Changelog
